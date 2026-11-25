@@ -1,0 +1,24 @@
+# Environments
+venv/
+env/
+.venv/
+
+# API Keys and Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS specific
+.DS_Store
+
+# Output directories
+output/
+*.log
+
+# IDE specific
+.vscode/
+.idea/
